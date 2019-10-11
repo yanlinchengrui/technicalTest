@@ -15,9 +15,9 @@
   - `\q`
   - `psql -d postgres -U labber`
 
-- Create a posts database and connect to it:
-  - `CREATE DATABASE posts;`
-  - `\c posts`
+- Create a test database and connect to it:
+  - `CREATE DATABASE test;`
+  - `\c test`
 
 ## Getting started
 
